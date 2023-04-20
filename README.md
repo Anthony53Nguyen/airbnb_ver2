@@ -1,6 +1,6 @@
 File data: db_airbnb và file postman sử dụng để test api (local) đính kèm, bên cạnh localhost:8080/swagger.
 
-Cần hêm file .env khi run local:
+Cần thêm file .env khi run local:
 DATABASE_URL="mysql://root:1234-pw@localhost:3306/db_airbnb?schema=public" SECRET_KEY="NODE"
 
 Dự án được deploy trên remote server:
